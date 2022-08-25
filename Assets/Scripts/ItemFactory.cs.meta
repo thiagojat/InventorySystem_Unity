@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d4133cecfea6ce54da409773e6781267
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goldenApple: {fileID: 7591484830326734635, guid: 9cec6160573fdf844b4b1bce7e5f847b, type: 3}
+  - chicken: {fileID: 402681799047156477, guid: ccf0ad244f6b4bd409d2a30ed437033f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
