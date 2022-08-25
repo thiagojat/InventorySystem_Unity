@@ -1,2 +1,3 @@
 *.vb linguist-language=C#
 *.shader linguist-language=C#
+*.gcinc linguist-language=C#
