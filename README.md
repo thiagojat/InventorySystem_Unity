@@ -10,6 +10,8 @@ The Inventory System itself have some basic functionalities:
 > - Dropping items into the ground
 > - Consuming items
 
+### Sprites
+The sprites used on this project are from [Creator Kit: RPG](https://assetstore.unity.com/packages/templates/tutorials/creator-kit-rpg-149309), avaliable at Unity Asset Store. 
 ## Commands for user
 
 - Press E to collect an item when colliding with it;
